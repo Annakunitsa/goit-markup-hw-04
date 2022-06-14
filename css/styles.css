@@ -130,10 +130,6 @@ body {
   fill: var(--accent-color);
 }
 
-.email-list-header {
-  width: 161px;
-}
-
 .email-link {
   margin-right: 50px;
   display: flex;
@@ -443,6 +439,7 @@ body {
   fill: #afb1b8;
   align-items: center;
   justify-content: center;
+  fill: currentColor;
 }
 
 .clients-icon:hover,
